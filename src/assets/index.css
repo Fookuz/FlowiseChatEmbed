@@ -9,13 +9,13 @@
   --chatbot-container-bg-color: transparent;
   --chatbot-container-font-family: 'Open Sans';
 
-  --chatbot-button-bg-color: #black;
+  --chatbot-button-bg-color: #303235;
   --chatbot-button-color: #ffffff;
 
-  --chatbot-host-bubble-bg-color: #black;
+  --chatbot-host-bubble-bg-color: #303235;
   --chatbot-host-bubble-color: #303235;
 
-  --chatbot-guest-bubble-bg-color: #black;
+  --chatbot-guest-bubble-bg-color: #303235;
   --chatbot-guest-bubble-color: #ffffff;
 
   --chatbot-input-bg-color: #ffffff;
