@@ -4,7 +4,7 @@
 
 :host {
   display: block;
-  height: 100%;
+  height: 50%;
   --chatbot-container-bg-image: none;
   --chatbot-container-bg-color: transparent;
   --chatbot-container-font-family: 'Open Sans';
